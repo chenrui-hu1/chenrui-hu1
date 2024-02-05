@@ -31,7 +31,7 @@ jobs:
 
           # Options
           user: chenrui-hu1
-          template: classic
+          template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
           plugin_activity: yes
